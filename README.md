@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning how to improve my matlab scripts, apply advanced analysis techniques to explore cerebrovascular reactivity and use machine learning to combine vascular and metabolic information gatehred from the brain.
 
-💞️ I’m looking to collaborate on projects related to vascular reactivity, temporal aspects of the hemodynamic response in health and disease and the combination of multi-parametric data for tissue classification.
+💞️ I’m looking to collaborate on projects related to vascular reactivity, temporal aspects of the hemodynamic response in health and disease and the combination of multi-parametric data for tissue classification. 
 
 📫 How to reach me: a.bhogal@umcutrecht.nl
 
