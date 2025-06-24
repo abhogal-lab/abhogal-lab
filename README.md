@@ -1,6 +1,6 @@
 👋 Hi, I’m Alex Bhogal! I'm an assistant professor in the High Field lab at the University Medical Center in Utrecht. 
 
-👀 I’m interested in vascular physiology and hemodynamics visualized using advanced MRI techniques combined with physiological stimuli. Also, i've grown a passion for metabolic imaging based in spectroscopy. My long term vision is to combine these incredible techniques to seach for a more complete picture of cerebral metabolism. And, as an ex-bike racer, I also love cycling and anything related to blinged out carbon road bikes.
+👀 I’m interested in vascular physiology and hemodynamics visualized using advanced MRI techniques combined with physiological stimuli. Also, i've grown a passion for metabolic imaging based in spectroscopy. My long term vision is to combine these incredible techniques to seach for a more complete picture of cerebral metabolism. And, as an ex-bike racer, I still also love getting out on the bike whenever I can.
 
 🌱 I’m currently learning how to improve my matlab scripts, apply advanced analysis techniques to explore cerebrovascular reactivity and use machine learning to combine vascular and metabolic information for a deeper insight into (patho)physiology.
 
